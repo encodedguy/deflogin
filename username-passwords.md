@@ -1,3 +1,2 @@
-##Weblogic
-
+## Weblogic
 weblogic:weblogic
