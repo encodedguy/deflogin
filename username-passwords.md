@@ -1,5 +1,8 @@
 ## Weblogic
 weblogic:weblogic
 
-##Global Protect
+## Global Protect
 admin:admin
+
+## Cisco ASA
+Cisco:Cisco
