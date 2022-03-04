@@ -12,3 +12,5 @@ LocalAdministrator:#l@$ak#.lk;0@P
 
 whd:whd
 
+## IBM Security Access Manager
+admin: admin
