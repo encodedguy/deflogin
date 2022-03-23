@@ -14,3 +14,6 @@ whd:whd
 
 ## IBM Security Access Manager
 admin: admin
+
+## Grafana
+admin: admin
