@@ -17,3 +17,6 @@ admin: admin
 
 ## Grafana
 admin: admin
+
+## Haivisionn
+admin: manager
