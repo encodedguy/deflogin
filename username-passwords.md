@@ -20,3 +20,6 @@ admin: admin
 
 ## Haivision
 admin: manager
+
+## Fortigate Router
+admin: <blank>
