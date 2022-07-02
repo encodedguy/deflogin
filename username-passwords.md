@@ -1,3 +1,6 @@
+## Rabbitmq
+guest: guest
+
 ## Weblogic
 weblogic:weblogic
 
