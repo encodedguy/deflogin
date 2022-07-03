@@ -1,3 +1,6 @@
+## Adobe Experience Manager
+admin: admin
+
 ## Rabbitmq
 guest: guest
 
