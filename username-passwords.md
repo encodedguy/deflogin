@@ -1,3 +1,11 @@
+## 3CX Phone Management
+admin: admin
+
+## Kibana Login Panel
+elastic
+kibana
+kibana_system
+
 ## Adobe Experience Manager
 admin: admin
 
